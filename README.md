@@ -1,4 +1,3 @@
-want to learn how verions control projects with git
 # ansible-dev
 Learning to track my code for ansible development
  # ansible-dev (Project Title)
